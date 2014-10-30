@@ -1,7 +1,7 @@
 Package: ffpeExampleData
 Type: Package
 Title: Illumina DASL example microarray data
-Version: 1.3.2
+Version: 1.5.0
 Date: 2011-11-15
 Author: Levi Waldron
 Maintainer: Levi Waldron <lwaldron@hsph.harvard.edu>
