@@ -1,14 +1,14 @@
 Package: ffpeExampleData
 Type: Package
 Title: Illumina DASL example microarray data
-Version: 1.5.1
+Version: 1.5.2
 Date: 2011-11-15
 Author: Levi Waldron
 Maintainer: Levi Waldron <lwaldron@hsph.harvard.edu>
 Description: A subset of GSE17565 (April et al. 2009) containing 32 FFPE samples of Burkitts Lymphoma and Breast Adenocarcinoma, with a dilution series in technical duplicate.
 Depends: R (>= 2.10.0), lumi
 Suggests: genefilter, affy
-biocViews: Tissue, Genome, WholeGenomeData, MicroarrayData, TissueMicroarrayData, GEO
+biocViews: Tissue, Genome, MicroarrayData, TissueMicroarrayData, GEO
 License: GPL (>2)
 LazyLoad: yes
 Packaged: 2011-11-17 21:53:48 UTC; lwaldron
